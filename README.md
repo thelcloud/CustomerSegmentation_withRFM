@@ -1,4 +1,6 @@
-# CustomerSegmentation_withRFM
+**CUSTOMER SEGMENTATION with RFM**
+
+
 ![1_cRaMqS-cTQSvyXMAI12Dlw](https://user-images.githubusercontent.com/58116973/126073954-fa449d13-72b3-41af-9d77-be2cf1d567d2.png)
 
 **Recency**: It gives us how much time has passed between our customer's last shopping date and today. This time actually shows the customer's activity.
