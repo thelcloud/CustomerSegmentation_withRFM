@@ -36,3 +36,7 @@ https://enhencer.com/articles/advantages-and-inefficacies-of-rfm-segmentation/
 https://help.headset.io/kb/article/79-rfm-segmentation/
 
 https://growmatik.ai/blog/how-to-identify-and-restore-inactive-customers-using-rfm-segmentation/
+
+![giphy (1)](https://user-images.githubusercontent.com/58116973/126074176-1a2597a6-bce2-4ae1-9578-bd15b8efa31a.gif)
+
+
