@@ -41,4 +41,5 @@ https://growmatik.ai/blog/how-to-identify-and-restore-inactive-customers-using-r
 
 ![giphy (1)](https://user-images.githubusercontent.com/58116973/126074176-1a2597a6-bce2-4ae1-9578-bd15b8efa31a.gif)
 
+Medium : https://handeyofficial.medium.com/rfm-analizi-ile-m%C3%BC%C5%9Fteri-segmentleme-a342bbfc1623
 
