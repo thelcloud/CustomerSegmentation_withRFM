@@ -31,7 +31,8 @@ I think this information about the project will be enough for us. I will proceed
 
 ![1_MbhHOhVXga0r1A1pqhm5UA](https://user-images.githubusercontent.com/58116973/126074043-72c73f29-a834-4b54-ab12-d35d1e0b03a1.png)
 
-Resources:https://www.veribilimiokulu.com/
+Resources:
+https://www.veribilimiokulu.com/
 
 https://enhencer.com/articles/advantages-and-inefficacies-of-rfm-segmentation/
 
